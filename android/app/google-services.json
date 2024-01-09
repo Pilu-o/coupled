@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "735804033551",
+    "project_id": "dating-4wt6qq",
+    "storage_bucket": "dating-4wt6qq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735804033551:android:4fcc5d1a4d56700d37b17a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735804033551-6qr7tuk5fa2gundj4jl60hcu5vr1khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSiFpoFmsUNp4NmqdEgGQpb8ehBGXiRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735804033551-6qr7tuk5fa2gundj4jl60hcu5vr1khc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735804033551-2oj3s89cbgcle14sd8juugr8a0hcmchq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735804033551:android:b1b5b42a9612e5e137b17a",
+        "android_client_info": {
+          "package_name": "com.mycompany.coupled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735804033551-fj43gr5g6h95og7g6h8bnifl3unl3lh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.coupled",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "735804033551-6qr7tuk5fa2gundj4jl60hcu5vr1khc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSiFpoFmsUNp4NmqdEgGQpb8ehBGXiRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735804033551-6qr7tuk5fa2gundj4jl60hcu5vr1khc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735804033551-2oj3s89cbgcle14sd8juugr8a0hcmchq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
